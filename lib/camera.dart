@@ -40,7 +40,7 @@ class _SegundaRota extends State<SegundaRota> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.black,
-        title: Text('Tire uma foto do documento'),
+        title: Text('Envie uma foto do veiculo'),
       ),
       body: Center(
         child: Row(

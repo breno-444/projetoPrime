@@ -74,7 +74,7 @@ class _PassoAPassoPageState extends State<PassoAPassoPage> {
                     Container(
                       width: 300,
                       height: 120,
-                      color: Colors.grey[100],
+                      color: Colors.black,
                       child: GestureDetector(
                         onTap: () => {},
                         child: Text(
@@ -83,7 +83,7 @@ class _PassoAPassoPageState extends State<PassoAPassoPage> {
                           style: TextStyle(
                             fontFamily: 'Raleway',
                             fontSize: 15,
-                            color: Colors.grey.shade600,
+                            color: Colors.black,
                           ),
                         ),
                       ),
